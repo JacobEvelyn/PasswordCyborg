@@ -1,6 +1,6 @@
 "use strict";
 
-// passwords.js
+// main.js
 // Jacob Evelyn
 // 2014
 
