@@ -13,7 +13,7 @@
     var numbers = "0123456789";
     var lowercaseLetters = "abcdefghijklmnopqrstuvwxyz";
     var uppercaseLetters = lowercaseLetters.toUpperCase();
-    var symbols = "~@#$%^&*()_-+={}[]|\\?/\"':;<,>.";
+    var symbols = "~@#$%^&*()_-+={}[]|?/':;<,>.";
     var validCharacters = "";
     var params = EasyAPI.input().params;
 
